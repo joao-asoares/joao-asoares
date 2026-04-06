@@ -1,19 +1,49 @@
- # 🤗 Hello, my name is João!
-<p align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcos-soares-834a93288/" alt="Gmail">
-  <img src="https://img.shields.io/badge/Jo%C3%A3o%20Marcos-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjo%25C3%25A3o-marcos-soares-834a93288%2F"/></a>
+# Hi there 👋, I'm João!
 
-  <a href="mailto:joaoasoares17@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/joaoasoares17%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Ajoaoasoares17%40gmail.com" /></a>
-  
-  <a href="https://www.instagram.com/joao_asoares/" alt="Instagram">
-  <img src="https://img.shields.io/badge/joao_asoares-white?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fjoao_asoares%2F"/></a>
-</p>
+💻 Web Developer
 
-### 🔭 Working as web developer.
-### 📚 Studying Computer Science at UFFS.
-### 🌟 Always in for a new learning experience!
+🎓 Bachelor's Degree in Computer Science - Federal University of Fronteira Sul (UFFS)  
 
 ---
 
-## 🚀 My Skills
+## 🚀 About Me
+
+I'm a web developer with solid experience in backend and fullstack development, focused on building scalable and efficient solutions.
+
+I have hands-on experience with real-world systems, including logistics, automation, and AI-based applications.
+
+- 🧠 Strong background in optimization and operations research
+- 🤖 Experience with AI applications (chatbots, document processing, translation systems)
+- ⚙️ Experience with industrial automation projects
+- 🌐 Development of web portals and e-commerce platforms
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🌐 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### 🧩 Backend & Frameworks
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+### 🗄️ Databases & Tools
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Forms](https://img.shields.io/badge/Oracle%20Forms-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Reports](https://img.shields.io/badge/Oracle%20Reports-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: joaoasoares17@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/joao-marcos-asoares  
+
+---
